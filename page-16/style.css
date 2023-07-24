@@ -30,8 +30,8 @@ body {
 
 .p .overlap {
   height: 322px;
-  left: 144px;
-  top: 22px;
+ 
+ 
   width: 588px;
   display: flex;
   align-items: center;
@@ -60,10 +60,10 @@ body {
 
 .p .img {
   height: 221px;
-  left: 229px;
+ 
   object-fit: cover;
 
-  top: 94px;
+ 
   width: 346px;
 }
 

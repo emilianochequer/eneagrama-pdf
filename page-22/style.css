@@ -1,66 +1,55 @@
 body {
   margin: 0;
 }
-.p-21,
-.p-21 * {
+.p-4,
+.p-4 * {
   box-sizing: border-box;
 }
-.p-21 {
-  background: #ffffff;
-  width: 799.93px;
-  height: 1132px;
-  position: relative;
-  overflow: hidden;
-}
-.p-21__rectangle-46 {
+.p-4 {
   background: #dba5d0;
-  width: 799.93px;
-  height: 1132px;
-  position: absolute;
-  left: 0px;
-  top: 0px;
+  width: 799.71px;
+  height: 1131.69px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
 }
-.p-21__loma-footer-1 {
-  width: 799.93px;
-  height: 243.34px;
-  position: absolute;
-  left: 0px;
-  top: 888.66px;
+.p-4__loma-footer-1 {
+  width: 799.71px;
+  height: 243.27px;
+  margin-top: -83px;
 }
-.p-21__text {
-  color: #000000;
-  text-align: left;
-  font: 400 16.13px "Inter", sans-serif;
-  position: absolute;
-  left: 110.24px;
-  top: 797.24px;
-}
-.p-21__rectangle-35 {
-  position: absolute;
-  left: 1057.38px;
-  top: 469.2px;
-  overflow: visible;
-}
-.p-21__relationships-compability {
+.p-4__enneagram-type-1-the-reformer {
   color: #ffffff;
   text-align: left;
-  font: 400 italic 67.22px "Roboto", sans-serif;
-  position: absolute;
-  left: 84.7px;
-  top: 186.87px;
+  font: 400 italic 67.2px "Roboto", sans-serif;
+  width: 100%;
+  height: 158px;
+  padding: 186.82px 178.03px 140.38px 84.67px;
+  display: flex;
+  flex-direction: column;
 }
-.p-21__logo-enneagram-universe-1-1 {
-  width: 158.64px;
-  height: 40.33px;
-  position: absolute;
-  left: 578.1px;
-  top: 1029.82px;
+.p-4__enneagram-type-1-the-reformer span {
+  color: #ffffff;
+  text-align: left;
+  font: 400 italic 63px "Roboto", sans-serif;
 }
-.p-21__enneagram-1-the-reformer-nb-1 {
-  width: 453.07px;
-  height: 504.16px;
-  position: absolute;
-  left: 170px;
-  top: 494.75px;
+
+.p-4__logo-enneagram-universe-1-1 {
+  width: 158.6px;
+  height: 40.32px;
+  z-index: 2;
+  margin-top: -120px;
+  margin-left: 530px;
+}
+.p-4__enneagram-1-the-reformer-nb-1 {
+  width: 452.94px;
+  height: 504.02px;
+  margin-top: 140px;
   transform-origin: 0 0;
+  z-index: 1;
+}
+.p-4__images-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

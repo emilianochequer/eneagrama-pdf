@@ -23,8 +23,8 @@ body {
   font: 700 21.51px "Roboto", sans-serif;
   display: flex;
   flex-direction: column;
-  left: 68.57px;
-  top: 88.73px;
+ 
+ 
 }
 .p-2__logo-enneagram-universe-1-1 {
   width: 158.64px;
@@ -96,8 +96,8 @@ body {
   text-align: left;
   font: 400 16.13px "Roboto", sans-serif;
 
-  left: 68.57px;
-  top: 122.34px;
+ 
+ 
   width: 673.55px;
   height: 43.02px;
 }
@@ -106,20 +106,20 @@ body {
   text-align: left;
   font: 400 16.13px "Roboto", sans-serif;
 
-  left: 68.57px;
-  top: 177.46px;
+ 
+ 
   width: 321.32px;
   height: 352.24px;
 }
 .p-2__group-12 {
-  left: 169.4px;
-  top: 976.5px;
+ 
+ 
   overflow: visible;
 }
 
 .p-2__group-5 {
-  left: 335.36px;
-  top: 966.66px;
+ 
+ 
   overflow: visible;
 }
 .p-2__group-14 {
@@ -127,8 +127,8 @@ body {
 }
 
 .p-2__group-6 {
-  left: 516.11px;
-  top: 966.64px;
+ 
+ 
   overflow: visible;
 }
 .p-2___63 {
@@ -136,8 +136,8 @@ body {
   text-align: center;
   font: 300 40.33px "Roboto", sans-serif;
 
-  left: 220.48px;
-  top: 976.05px;
+ 
+ 
   width: 91.42px;
   height: 57.81px;
 }
@@ -146,8 +146,8 @@ body {
   text-align: center;
   font: 300 40.33px "Roboto", sans-serif;
 
-  left: 400.64px;
-  top: 976.05px;
+ 
+ 
   width: 92.76px;
   height: 57.81px;
 }
@@ -156,8 +156,8 @@ body {
   text-align: center;
   font: 300 40.33px "Roboto", sans-serif;
 
-  left: 582.13px;
-  top: 976.05px;
+ 
+ 
   width: 63.19px;
   height: 57.81px;
 }
@@ -166,8 +166,8 @@ body {
   text-align: center;
   font: 300 italic 16.13px "Roboto", sans-serif;
 
-  left: 231.24px;
-  top: 1025.79px;
+ 
+ 
   width: 53.78px;
   height: 20.17px;
 }
@@ -176,8 +176,8 @@ body {
   text-align: center;
   font: 300 16.13px "Roboto", sans-serif;
 
-  left: 407.36px;
-  top: 1025.79px;
+ 
+ 
   width: 34.95px;
   height: 20.17px;
 }
@@ -186,8 +186,8 @@ body {
   text-align: center;
   font: 300 16.13px "Roboto", sans-serif;
 
-  left: 586.17px;
-  top: 1023.1px;
+ 
+ 
   width: 41.68px;
   height: 20.17px;
 }

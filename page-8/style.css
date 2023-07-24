@@ -1,0 +1,170 @@
+body {
+  margin: 0;
+}
+
+.p {
+  background-color: #ffffff;
+  width: 800px;
+  height: 1132px;
+}
+
+.p .text-wrapper {
+  color: #000000;
+  font-family: "Roboto-Bold", Helvetica;
+  font-size: 27px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.p .love-must-be-the {
+  color: #000000;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 16.2px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 27.31px;
+}
+
+.p .logo {
+  height: 40px;
+  display: flex;
+  align-self: flex-end;
+}
+
+.p .flex-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2.7px;
+  height: 226px;
+  width: 660px;
+}
+
+.p .text {
+  align-self: stretch;
+  color: #5c5c5c;
+  font-family: "Roboto-Light", Helvetica;
+  font-size: 18.9px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+}
+
+.p .span {
+  font-weight: 300;
+}
+
+.p .text-wrapper-2 {
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  margin-top: 12.13px;
+}
+
+.p .span-wrapper {
+  align-self: stretch;
+  color: #5c5c5c;
+  font-family: "Roboto-Light", Helvetica;
+  font-size: 18.9px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.p .text-2 {
+  align-self: stretch;
+  color: #5c5c5c;
+  font-family: "Roboto-Light", Helvetica;
+  font-size: 18.9px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -23px;
+  text-align: center;
+}
+
+.p .text-wrapper-3 {
+  color: #5c5c5c;
+  font-family: "Roboto-LightItalic", Helvetica;
+  font-size: 21.6px;
+  font-style: italic;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.p .line {
+  height: 1px;
+  margin-top: 66.12px;
+  width: 660px;
+  scale: 2;
+}
+
+.p .overlap-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 55.6px;
+  width: 660px;
+}
+
+.p .img {
+  height: 1px;
+  width: 660px;
+  scale: 2;
+  margin-top: -70px;
+}
+
+.p .group {
+  height: 220px;
+  width: 331px;
+}
+
+.p .text-wrapper-4 {
+  color: #979797;
+  font-family: "Roboto-Italic", Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.p .text-wrapper-5 {
+  margin: 0;
+  color: #979797;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 13.5px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  display: flex;
+  justify-content: flex-end;
+  white-space: nowrap;
+  width: 100%;
+}
+.row-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 68px 32px 68px;
+  box-sizing: border-box;
+  height: 1132px;
+}
+
+.last-row {
+  margin-top: 16.32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}

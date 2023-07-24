@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+}
+
+.p-3,
+.p-3 * {
+  box-sizing: border-box;
+}
+.p-3 {
+  background: #ffffff;
+  width: 799.93px;
+  height: 1132px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 78px 68px 62px 68px;
+  justify-content: space-around;
+}
+.p-3__contents {
+  color: #000000;
+  text-align: left;
+  font: 700 32.27px "Roboto", sans-serif;
+  left: 60.5px;
+  top: 76.63px;
+}
+
+.p-3__titles-chapters span {
+  color: #000;
+  font-family: "Roboto", sans-serif;
+  font-size: 16.133px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.p-3__titles-chapters {
+  color: #000;
+  line-height: normal;
+  font: 400 16.13px "Roboto", sans-serif;
+  padding-top: 9px;
+}
+
+.p-3__lines-chapter-container {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+.p-3__lines-chapter {
+  color: #000000;
+  text-align: left;
+  font: 400 16.13px "Roboto", sans-serif;
+  padding-top: 9px;
+}
+
+.p-3__line-9-container {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+.p-3__line-9 {
+  color: #000000;
+  text-align: left;
+  font: 400 16.13px "Roboto", sans-serif;
+  padding-top: 9px;
+}
+.p-3__logo-enneagram-universe-1-1 {
+  width: 158.64px;
+  height: 40.33px;
+  display: flex;
+  align-self: flex-end;
+}
+.p-3___3 {
+  color: #989898;
+  text-align: left;
+  font: 400 13.44px "Roboto", sans-serif;
+  padding-top: 14.61px;
+  display: flex;
+}
+.p-3__enneagram-1-contents {
+  color: #989898;
+  text-align: left;
+  font: 400 italic 13.44px "Roboto", sans-serif;
+  padding-top: 30.74px;
+  display: flex;
+  align-self: center;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
+}
+.p-3__line-19-29-container {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+.p-3__line-36-37-container {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+.p-3_number-page {
+  display: flex;
+  flex-direction: row;
+}
+

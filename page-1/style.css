@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+}
+
+.container,
+.container * {
+  box-sizing: border-box;
+}
+.container {
+  background: #ffffff;
+  width: 800px;
+  height: 1132px;
+  position: relative;
+  box-shadow: 0px 5.38px 5.38px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+.rectangle-background {
+  background: #dba5d0;
+  width: 799.93px;
+  height: 1132px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.enneagram-image {
+  width: 625.15px;
+  height: 717.92px;
+  position: absolute;
+  left: 87.39px;
+  top: 280.98px;
+}
+
+.report-name {
+  color: #ffffff;
+  text-align: center;
+  position: absolute;
+  left: 32px;
+  top: 130px;
+}
+
+.report-name-span {
+  color: #ffffff;
+  font: 200 47.05px "Roboto", sans-serif;
+}
+
+.report-name-span2 {
+  color: #ffffff;
+  font: 700 italic 53.78px "Roboto", sans-serif;
+}
+
+.logo-image {
+  width: 207.04px;
+  height: 52.43px;
+  position: absolute;
+  left: 295.77px;
+  top: 1041.92px;
+}
+
+.ellipse {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2.69px;
+  width: 1125.28px;
+  height: 1132px;
+  position: absolute;
+  left: -162.67px;
+  top: 0px;
+}
+
+.rectangle {
+  background: #ffffff;
+  width: 92.76px;
+  height: 810.68px;
+  position: absolute;
+  left: -9.41px;
+  top: 703.13px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+
+.enneagram-type {
+  color: #dba5d0;
+  text-align: center;
+  font: 200 67.22px "Roboto", sans-serif;
+  position: absolute;
+  left: 121px;
+  top: 617.09px;
+}
+
+.rectangle-border {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1.34px;
+  width: 766.32px;
+  height: 1093.01px;
+  position: absolute;
+  left: 16.13px;
+  top: 20.17px;
+}

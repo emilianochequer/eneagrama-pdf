@@ -70,7 +70,7 @@ body {
   flex-direction: column;
 }
 
-.menuItem {
+.item-index {
   position: relative;
   display: inline-block;
   font-size: 14px;
@@ -80,7 +80,7 @@ body {
   background: #ffffff;
   width: 100%;
 }
-.good-name {
+.item-index-text {
   display: inline-block;
   height: inherit;
   line-height: inherit;
@@ -94,7 +94,7 @@ body {
   -moz-text-align-last: left;
 }
 
-.price {
+.item-index-number {
   display: inline-block;
   height: inherit;
   line-height: inherit;
